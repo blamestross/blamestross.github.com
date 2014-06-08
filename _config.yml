@@ -9,8 +9,8 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : BlameStross
-tagline: Imagining the SciFi fantasy world of next month
-author : BlameStross
+tagline: test
+author :
   name : Blame Stross
   email : blamestross@gmail.com
   github : blamestross

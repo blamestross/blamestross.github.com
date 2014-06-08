@@ -1,9 +1,7 @@
 ---
 layout: post
-title: "Hello World"
-description: "Learning something new"
-category: 
-tags: [ramblings]
+category : tests
+tags : [test]
 ---
 {% include JB/setup %}
 
