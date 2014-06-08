@@ -1,6 +1,7 @@
 ---
 layout: post
 category : tests
+tagline: "Lets try this blogging thing"
 tags : [test]
 ---
 {% include JB/setup %}
