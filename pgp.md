@@ -1,0 +1,47 @@
+---
+layout: page
+title: "Pgp"
+description: ""
+---
+{% include JB/setup %}
+
+Feel free to send me an email at blamestross@gmail.com.
+
+This is my public key:
+
+    -----BEGIN PGP PUBLIC KEY BLOCK-----
+    Version: GnuPG v1.4.9 (MingW32)
+
+    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
+    =mHke
+    -----END PGP PUBLIC KEY BLOCK-----

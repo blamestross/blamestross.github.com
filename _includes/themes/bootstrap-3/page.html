@@ -1,9 +1,25 @@
-<div class="page-header">
-  <h1>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h1>
-</div>
 
+
+
+<div class="content" id="home">
+  <div id="sidebar-button">
+    <img src="/images/sidebar-button.png">
+  </div>
+
+<div id="post-info">
+    <div id="info-container">
+      <h1 id="title">{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h1>
+    </div>
+  </div>
+
+
+<div class="post">
 <div class="row">
   <div class="col-xs-12">
     {{ content }}
   </div>
 </div>
+  </div>
+  </div>
+
+
