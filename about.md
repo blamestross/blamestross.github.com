@@ -1,25 +1,26 @@
 ---
 layout: page
-title: "About"
-description: ""
+title: About
+permalink: /about/
 ---
-{% include JB/setup %}
 
+#Why
 
+"Taking a long view" is intended to be a broadcast platform for ideas I have not seen well represented online.
+I've realized that my values, goals, and plans for the future do not match that of any codified brand of ideals.
+As I have met many other people with similar ideas, but no label to brand and rally under, I feel an obligation to attempt to provide such a codification and label.
+My ideas and philosophies are, as all such things, a work in progress.
+I encourage debate and critical review of everything I say, at worst I will learn from it.
 
-This is my semi-anonymous blog.
+#Foundational Beliefs
 
-I am a Computer Science PHD Student, specializing in Network Security and Distributed Computation.
+The following ideas I am taking as given.
+There are many rationales for each, but everything I talk about here will be based on their assumption.
 
-The blog exists so that I can quietly leak the things I learn and invent to the General Public with minimized backlash.
+- Humanity is worth saving.
 
-I am really enjoying my low paying GRA position, and would never entertain any Job or Business Ideas sent to blamestross@gmail.com (be sure to use PGP)
+- The most critical task we have, as intelligent living beings, is ensure life will be in the universe for as long as possible. Ideally we should do our best to insure that our line of intelligent life continues.
 
+- We should focus on what we can do now, to provide our ancestors with the tools to preform this task later. This discussion is a huge part of that.
 
-# Why BlameStross?
-
-
-Blame Stross for all of this.
-
-Reading the speculative fiction of [Charlie Stross](http://www.antipope.org/) at an impressionable age doomed me to the task of trying to make the good parts of his possible futures come true. It is his fault that I and many like me are trying so hard to change the status quo of security on the internet.
-
+- Diversity is robust. We are not trying to save our own Nation, Race, or creed. We are trying to ensure that as many populations and cultures of humanity exist as possible for as long as possible. We all must concede that _no culture is optimally fit to surivial_ (http://www.no-free-lunch.org/)
