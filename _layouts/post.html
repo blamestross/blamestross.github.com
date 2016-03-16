@@ -30,12 +30,6 @@ layout: default
           <p>
             <div class="github-card" data-github="brendanbenshoof" data-width="400" data-height="" data-theme="default"></div>
             <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
-
-            <span>
-              {% if site.twitter_username %}
-                {% include icon-twitter.html username=site.twitter_username %}
-              {% endif %}
-            </span>
           </p>
           <hr>
           <p class="published">Published <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time></p>
